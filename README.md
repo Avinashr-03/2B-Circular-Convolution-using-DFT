@@ -1,2 +1,31 @@
-# 2B-Circular-Convolution-using-DFT
-Circular Convolution using DFT
+# EXPT 2B:CIRCULAR-CONVOLUTION-USING-DFT
+## AIM
+To perform and verify circular convolution operation of two given sequences using SCILAB.
+## APPARATUS REQUIRED
+PC installed with SCILAB
+## PROGRAM:
+## CIRCULAR CONVOLUTION
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+### CALCULATIONS:
+<br>
+<br>
+<br>
+<br>
+<br>
+### SAMPLE OUTPUT:
+<br>
+<br>
+<br>
+<br>
+
+
+
+## RESULT:
+Thus, the circular convolution of the two given sequences were performed and its result was verified.
+
